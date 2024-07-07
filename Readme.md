@@ -1,2 +1,2 @@
-Credit Risk Modeling using XGBoost
+__Credit Risk Modeling using XGBoost__  
 This project involves the development and deployment of a credit risk model using XGBoost. The model assesses the credit risk of loan applicants, assisting financial institutions in making informed decisions about loan approvals. The project includes data preprocessing, model training, evaluation, and deployment-ready scripts for model inference.
